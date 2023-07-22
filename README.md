@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kirby. I'm a Treecko. 🦎🌱
 - 👀 I’m interested in 🎶music and 🕹️video games.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m too busy learning to collaborate. Apologies!
+- 💞️ I’m too busy studying to collaborate. Apologies!
 - 📫 How to reach me: Discord @\_Caky\_
 
 <!---
